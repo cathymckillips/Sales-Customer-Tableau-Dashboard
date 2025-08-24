@@ -2,13 +2,13 @@
 ## 📌 Project Overview
 This project showcases an interactive Tableau dashboard analyzing multi-year sales, profit, and discounts across customers, products, and regions.
 ## 🔎 Key Features
-📈 Sales & Profit by Year —  Use this view to quickly compare year-over-year results and identify inflection points for deeper drill-downs by segment or region.
+📈 **Sales & Profit by Year** — Use this view to quickly compare year-over-year results and identify inflection points for deeper drill-downs by segment or region.
 
-🌍 Profit by State — A geographic breakdown that highlights profit hotspots and underperforming states at a glance.
+🌍 **Profit by State** — A geographic breakdown that highlights profit hotspots and underperforming states at a glance.
 
-📅 Monthly KPIs — Yearly trends tracking Sales, Profit, Discount core health metrics across the selected date range.
+📅 **Monthly KPIs** — Yearly trends tracking Sales, Profit, Discount core health metrics across the selected date range.
 
-🪑 Sales & Profit by Product —  (Accessories, Binders, Chairs, Laptops, Storage, Tables) - Use it to surface high-revenue/low-margin items
+🪑 **Sales & Profit by Product** —  (Accessories, Binders, Chairs, Laptops, Storage, Tables) - Use it to surface high-revenue/low-margin items
 
 ## 🛠️ Tools & Techniques
 - Tableau for data modeling and visualization
