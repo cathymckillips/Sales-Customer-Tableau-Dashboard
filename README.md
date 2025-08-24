@@ -30,7 +30,7 @@ To demonstrate how HR data can be transformed into actionable insights through i
 - `products.csv` — Sample dataset
 - `invoices.csv` — Sample dataset
 - `KPI_Performance_Dashboard.mp4` — Dashboard Video
-- `KPI Performance Dashboard Image.png` — Dashboard Image
+- `KPIDashboard.png` — Dashboard Image
 - `README.md` — Project documentation (this file)
 
 ## 🧪 Why This Matters
@@ -40,7 +40,7 @@ A compact, real-world scenario showing how data modeling + visualization answer:
 
 
 ## 📊 Sample Visuals
-![Dashboard Overview](KPI Performance Dashboard Image.png)
+![Dashboard Overview](KPIDashboard.png)
 
 ## 📊 Sample Video Demonstration
 ▶️ [Watch on YouTube]( https://youtu.be/2I1_KmfnJK4)
