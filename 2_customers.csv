@@ -1,0 +1,6 @@
+Customer ID,Customer Name,Segment,Country,Region,State,City,Postal Code,Mailing Address
+C001,Alice Johnson,Consumer,USA,East,New York,New York,10001,"123 Main St, New York, NY 10001"
+C002,Bob Smith,Corporate,USA,West,California,Los Angeles,90001,"456 Sunset Blvd, Los Angeles, CA 90001"
+C003,Charlie Lee,Home Office,USA,Central,Illinois,Chicago,60601,"789 Lake Shore Dr, Chicago, IL 60601"
+C004,Diana Evans,Consumer,USA,South,Texas,Houston,77001,"321 Bayou Rd, Houston, TX 77001"
+C005,Ethan Brown,Corporate,USA,East,Florida,Miami,33101,"654 Ocean Dr, Miami, FL 33101"
