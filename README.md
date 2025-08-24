@@ -15,14 +15,14 @@ This project showcases an interactive Tableau dashboard analyzing multi-year sal
 - CSV for initial data exploration
 - GitHub for portfolio documentation and sharing
 
-⚙️ Skills Demonstrated
+## ⚙️ Skills Demonstrated
 -	Data prep in CSV (4+ years of records)
 -	Data modeling & joins in Tableau
 -	Trend lines, maps, KPI cards
 -	Clean, pragmatic dashboard design
 
 ## 🎯 Purpose
-To demonstrate how HR data can be transformed into actionable insights through interactive dashboards, highlighting the value of analytics in improving hiring efficiency, understanding workforce trends, and supporting people-focused decision-making.
+This dashboard provides a single, interactive view of multi-year sales performance to help leaders quickly identify growth drivers and margin leakage across time, geography, and product lines. It enables data-driven decisions on pricing/discounts, product mix, and regional focus.
 
 ## 🔗 Files Included
 - `KPI Performance Dashboard.twb` — Tableau workbook file  
@@ -37,7 +37,6 @@ To demonstrate how HR data can be transformed into actionable insights through i
 A compact, real-world scenario showing how data modeling + visualization answer:
 - Which products drive the highest profit?
 - Which regions underperform and need attention?
-
 
 ## 📊 Sample Visuals
 ![Dashboard Overview](KPIDashboard.png)
