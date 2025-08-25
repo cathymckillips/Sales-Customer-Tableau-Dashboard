@@ -29,7 +29,7 @@ This dashboard provides a single, interactive view of multi-year sales performan
 - `customers.csv` — Sample dataset  
 - `products.csv` — Sample dataset
 - `invoices.csv` — Sample dataset
-- `KPI_Performance_Dashboard.mp4` — Dashboard Video
+- `KPI_Dashboard.mp4` — Dashboard Video
 - `KPIDashboard.png` — Dashboard Image
 - `README.md` — Project documentation (this file)
 
