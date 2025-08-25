@@ -42,7 +42,7 @@ A compact, real-world scenario showing how data modeling + visualization answer:
 ![Dashboard Overview](KPIDashboard.png)
 
 ## 📊 Sample Video Demonstration
-▶️ [Watch on YouTube]( https://youtu.be/zOpI2HFVpqc)
+▶️ [Watch on YouTube]( https://youtu.be/tYaK201HgPI)
 
 ## 🗂️ Project Status
 
